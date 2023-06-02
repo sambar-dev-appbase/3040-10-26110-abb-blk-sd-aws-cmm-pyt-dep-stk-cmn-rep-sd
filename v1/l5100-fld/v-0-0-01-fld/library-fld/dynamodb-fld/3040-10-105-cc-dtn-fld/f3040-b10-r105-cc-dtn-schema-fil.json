@@ -1,1 +1,20 @@
-Sample file.
+{
+  "tableName": "MyTable",
+  "partitionKey": {
+    "name": "id", "cognito-username"
+    "type": "STRING"
+  },
+  "sortKey": {
+    "name": "timestamp",
+    "type": "NUMBER"
+  },
+  "globalSecondaryIndexes": [
+    {
+      "indexName": "SomeIndex",
+      "partitionKey": {
+        "name": "otherAttribute",
+        "type": "STRING"
+      }
+    }
+  ]
+}

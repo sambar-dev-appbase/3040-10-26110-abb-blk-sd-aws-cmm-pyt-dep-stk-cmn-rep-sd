@@ -1,0 +1,173 @@
+{
+  "constant": {
+    "S": "subscription-plans"
+  },
+  "value": {
+    "M": {
+      "basic": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "0"
+          },
+          "credits-balance": {
+            "N": "0"
+          },
+          "credits-total": {
+            "N": "0"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "price": {
+            "N": "5"
+          }
+        }
+      },
+      "conversion": {
+        "M": {
+          "conversion-rate": {
+            "N": "10"
+          },
+          "token-price": {
+            "N": "1"
+          }
+        }
+      },
+      "free": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "0"
+          },
+          "credits-balance": {
+            "N": "0"
+          },
+          "credits-total": {
+            "N": "10"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "price": {
+            "N": "5"
+          }
+        }
+      },
+      "gold": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "7"
+          },
+          "credits-balance": {
+            "N": "30"
+          },
+          "credits-total": {
+            "N": "30"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "post_limit": {
+            "N": "149"
+          },
+          "price": {
+            "N": "149"
+          },
+          "token_limit": {
+            "N": "500"
+          }
+        }
+      },
+      "platinum": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "30"
+          },
+          "credits-balance": {
+            "N": "40"
+          },
+          "credits-total": {
+            "N": "50"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "post_limit": {
+            "N": "199"
+          },
+          "price": {
+            "N": "199"
+          },
+          "token_limit": {
+            "N": "750"
+          }
+        }
+      },
+      "silver": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "7"
+          },
+          "credits-balance": {
+            "N": "20"
+          },
+          "credits-total": {
+            "N": "20"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "post_limit": {
+            "N": "99"
+          },
+          "price": {
+            "N": "99"
+          },
+          "token_limit": {
+            "N": "250"
+          }
+        }
+      },
+      "tokens": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "0"
+          },
+          "credits-total": {
+            "N": "0"
+          },
+          "day-limit": {
+            "N": "30"
+          },
+          "price": {
+            "N": "0"
+          }
+        }
+      },
+      "yearly": {
+        "M": {
+          "bonus-days-after-strategy-expiry": {
+            "N": "30"
+          },
+          "credits-balance": {
+            "N": "100"
+          },
+          "credits-total": {
+            "N": "0"
+          },
+          "day-limit": {
+            "N": "365"
+          },
+          "post_limit": {
+            "N": "1999"
+          },
+          "price": {
+            "N": "1999"
+          },
+          "token_limit": {
+            "N": "1000"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+// we do not need subnets
+{
+  "regionKEY": "eu-west-2",
+  "vpcIDKEY": "vpc-01f2f78a96c5df9a8",
+  "subnetKEY": [
+    "subnet-0833b492c77177f1b",
+    "subnet-0e21da386f57c9ee9",
+    "subnet-06f0e608b2557857e"
+  ]
+}

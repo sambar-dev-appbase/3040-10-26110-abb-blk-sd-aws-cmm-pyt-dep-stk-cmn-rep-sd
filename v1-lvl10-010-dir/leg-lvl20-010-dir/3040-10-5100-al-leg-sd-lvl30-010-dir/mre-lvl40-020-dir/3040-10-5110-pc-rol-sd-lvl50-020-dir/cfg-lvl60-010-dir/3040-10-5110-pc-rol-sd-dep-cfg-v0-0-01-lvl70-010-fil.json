@@ -1,1 +1,17 @@
-Sample file.
+{
+	"permissionPolicyKEY":"ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd"
+	"resourceNameKEY":"ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd",
+	"resourceDescriptionKEY":"This Role is assigned to the MS ua-p-r-no-us-en-lo-3040-10-msv-sd to read subscription plan details from the DynamoDB table user-subscription-plan-3040-10-dtn-sd.",
+	"resourceTagKEY":{
+	"aliasNameTAG":"none",
+	"fqridTAG":"3040-10-5110-pc-pol-sd",
+	"appTAG":"sambar",
+	"envTAG":"sd",
+	"ticketNumberTAG":"ticket number",
+	"creationTypeTAG":"cdk",
+	"botNameTAG":"name",
+	"regionCodeTAG":"eu-west-2",
+	"deploymentDateTAG":"mm-dd-yyyy"
+
+	}
+}

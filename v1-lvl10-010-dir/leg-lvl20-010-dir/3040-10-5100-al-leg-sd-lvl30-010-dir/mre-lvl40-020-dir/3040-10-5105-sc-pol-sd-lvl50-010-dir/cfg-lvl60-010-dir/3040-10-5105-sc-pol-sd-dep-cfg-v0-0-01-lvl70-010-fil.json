@@ -1,1 +1,16 @@
-Sample file.
+{
+	"resourceNameKEY":"ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd",
+	"resourceDescriptionKEY":"This Policy is assigned to the IAM Role ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd to read subscription plan details from the DynamoDB table user-subscription-plan-3040-10-dtn-sd.",
+	"resourceTagKEY":{
+	"aliasNameTAG":"none",
+	"fqridTAG":"3040-10-5105-sc-pol-sd",
+	"appTAG":"sambar",
+	"envTAG":"sd",
+	"ticketNumberTAG":"ticket number",
+	"creationTypeTAG":"cdk",
+	"botNameTAG":"name",
+	"regionCodeTAG":"eu-west-2",
+	"deploymentDateTAG":"mm-dd-yyyy"
+
+	}
+}

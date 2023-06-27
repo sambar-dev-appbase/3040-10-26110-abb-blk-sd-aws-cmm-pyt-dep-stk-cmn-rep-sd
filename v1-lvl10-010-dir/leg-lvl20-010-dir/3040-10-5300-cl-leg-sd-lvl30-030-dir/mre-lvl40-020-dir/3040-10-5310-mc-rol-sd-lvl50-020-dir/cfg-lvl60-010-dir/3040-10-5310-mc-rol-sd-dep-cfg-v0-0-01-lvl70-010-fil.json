@@ -1,1 +1,14 @@
-Sample file.
+{
+  "resourceDescriptionKEY": "This Role is assigned to the  ua-p-w-no-us-en-lo-3040-10-msv-sd MS to communicate with the S3 Bucket user-registration-image-mmm-yy-bkt-sd.",
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "3040-10-5310-mc-rol-sd",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "ticketNumberTAG": "ticket number",
+    "creationTypeTAG": "cdk",
+    "botNameTAG": "name",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentDateTAG": "mm-dd-yyyy"
+  }
+}

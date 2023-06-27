@@ -1,1 +1,14 @@
-Sample file.
+{
+  "resourceDescriptionKEY": "This Role is assigned to the ub-gp-no-us-en-lo-3040-10-msv-sd MS to communicate with ua-p-r-no-us-en-lo-3040-10-msv-sd MS.",
+    "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "3040-10-5510-fc-rol-sd",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "ticketNumberTAG": "ticket number",
+    "creationTypeTAG": "cdk",
+    "botNameTAG": "name",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentDateTAG": "mm-dd-yyyy"
+  }
+}

@@ -1,1 +1,22 @@
-Sample file.
+{
+  "resourceDescriptionKEY": "This Secret is contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
+  "secretTypeKEY": "Other type",
+  "keyValueKEY": {
+    "userAccountNumber304010HostKEY": "XXXX",
+    "userAccountNumber304010PortKEY": "XXXX",
+    "userAccountNumber304010DatabaseKEY": "XXXX",
+    "userAccountNumber304010UsernameKEY": "XXXX",
+    "userAccountNumber304010PasswordKEY": "XXXX"
+  },
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "3040-10-5215-jc-pol-sd",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "ticketNumberTAG": "ticket number",
+    "creationTypeTAG": "cdk",
+    "botNameTAG": "name",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentDateTAG": "mm-dd-yyyy"
+  }
+}

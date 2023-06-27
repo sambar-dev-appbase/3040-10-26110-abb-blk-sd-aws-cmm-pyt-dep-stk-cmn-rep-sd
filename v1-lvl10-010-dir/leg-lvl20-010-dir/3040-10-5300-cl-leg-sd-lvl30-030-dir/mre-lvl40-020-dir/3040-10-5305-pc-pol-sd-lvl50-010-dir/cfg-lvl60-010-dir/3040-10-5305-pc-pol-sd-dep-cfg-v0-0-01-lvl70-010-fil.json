@@ -1,1 +1,27 @@
-Sample file.
+{
+  "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ua-p-r-no-us-en-lo-3040-10-user-registration-image-3040-10-rol-sd to communicate with S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
+  "jsonScriptKEY": {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Effect": "Allow",
+        "Action": [
+          "s3:*",
+          "s3-object-lambda:*"
+        ],
+        "Resource": "*"
+      }
+    ]
+  },
+  "resourceTagKEY": {
+    "aliasNameTAG": "none",
+    "fqridTAG": "3040-10-5305-pc-pol-sd",
+    "appTAG": "sambar",
+    "envTAG": "sd",
+    "ticketNumberTAG": "ticket number",
+    "creationTypeTAG": "cdk",
+    "botNameTAG": "name",
+    "regionCodeTAG": "eu-west-2",
+    "deploymentDateTAG": "mm-dd-yyyy"
+  }
+}

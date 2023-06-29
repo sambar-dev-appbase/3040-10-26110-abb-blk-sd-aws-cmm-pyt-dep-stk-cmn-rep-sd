@@ -3,12 +3,14 @@
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "3040-10-5310-mc-rol-sd",
+    "resourceTypeKEY": "rol",
+    "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",
-    "ticketNumberTAG": "ticket number",
-    "creationTypeTAG": "cdk",
-    "botNameTAG": "name",
     "regionCodeTAG": "eu-west-2",
+    "ticketIDTAG": "ticket number",
+    "botNameTAG": "name",
+    "deploymentTypeTAG": "cdk",
     "deploymentDateTAG": "mm-dd-yyyy"
   }
 }

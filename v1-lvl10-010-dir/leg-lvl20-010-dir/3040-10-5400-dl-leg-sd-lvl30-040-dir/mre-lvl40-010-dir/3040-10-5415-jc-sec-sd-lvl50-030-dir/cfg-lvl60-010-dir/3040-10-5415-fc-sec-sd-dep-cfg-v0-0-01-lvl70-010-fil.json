@@ -1,22 +1,23 @@
 {
-  "resourceDescriptionKEY": "This Secret is contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
-  "secretTypeKEY": "Other type",
-  "keyValueKEY": {
-    "userAccountNumber304010HostKEY": "XXXX",
-    "userAccountNumber304010PortKEY": "XXXX",
-    "userAccountNumber304010DatabaseKEY": "XXXX",
-    "userAccountNumber304010UsernameKEY": "XXXX",
-    "userAccountNumber304010PasswordKEY": "XXXX"
-  },
+  "resourceTypeKEY": "Other type",
+  "resourceStringTypeKEY": "Key/value",
+  "userAccountNumber304010HostKEY": "secretValueKEY",
+  "userAccountNumber304010PortKEY": "secretValueKEY",
+  "userAccountNumber304010DatabaseKEY": "secretValueKEY",
+  "userAccountNumber304010UsernameKEY": "secretValueKEY",
+  "userAccountNumber304010PasswordKEY": "secretValueKEY",
+  "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "3040-10-5415-jc-sec-sd",
+    "resourceTypeKEY": "sec",
+    "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",
-    "ticketNumberTAG": "ticket number",
-    "creationTypeTAG": "cdk",
-    "botNameTAG": "name",
     "regionCodeTAG": "eu-west-2",
+    "ticketIDTAG": "ticket number",
+    "botNameTAG": "name",
+    "deploymentTypeTAG": "cdk",
     "deploymentDateTAG": "mm-dd-yyyy"
   }
 }

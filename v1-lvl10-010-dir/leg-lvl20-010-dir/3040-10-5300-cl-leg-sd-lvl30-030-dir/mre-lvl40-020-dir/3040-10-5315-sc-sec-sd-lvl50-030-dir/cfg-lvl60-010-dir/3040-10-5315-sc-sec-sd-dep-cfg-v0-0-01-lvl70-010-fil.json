@@ -1,19 +1,20 @@
 {
-  "resourceDescriptionKEY": "This Secret is contains credentials to access S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd",
-  "secretTypeKEY": "Other type",
-  "keyValueKEY": {
-    "userRegistrationImage304010AccessKEY": "XXXX",
-    "userRegistrationImage304010SecretAccessKEY": "XXXX",
-  },
+  "resourceTypeKEY": "Other type",
+  "resourceStringTypeKEY": "Key/value",
+  "userRegistrationImage304010AccessKEY": "secretValueKEY",
+  "userRegistrationImage304010SecretAccessKEY": "secretValueKEY",
+  "resourceDescriptionKEY": "This Secret contains credentials to access S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "3040-10-5315-sc-sec-sd",
+    "resourceTypeKEY": "sec",
+    "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",
-    "ticketNumberTAG": "ticket number",
-    "creationTypeTAG": "cdk",
-    "botNameTAG": "name",
     "regionCodeTAG": "eu-west-2",
+    "ticketIDTAG": "ticket number",
+    "botNameTAG": "name",
+    "deploymentTypeTAG": "cdk",
     "deploymentDateTAG": "mm-dd-yyyy"
   }
 }

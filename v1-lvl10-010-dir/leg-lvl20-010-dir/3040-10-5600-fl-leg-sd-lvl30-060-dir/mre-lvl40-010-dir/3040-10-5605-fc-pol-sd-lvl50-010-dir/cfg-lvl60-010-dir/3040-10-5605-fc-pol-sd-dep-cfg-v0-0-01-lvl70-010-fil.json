@@ -1,6 +1,6 @@
 {
   "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ub-gp-no-us-en-lo-3040-10-ua-p-w-no-us-en-lo-3040-10-rol-sd to communicate with ua-p-w-no-us-en-lo-3040-10-msv-sd MS.",
-  "jsonScriptKEY": {
+  "resourcePermissionStatementStructureKEY": {
     "Version": "2012-10-17",
     "Statement": [
         {
@@ -83,12 +83,14 @@
   "resourceTagKEY": {
     "aliasNameTAG": "none",
     "fqridTAG": "3040-10-5605-fc-pol-sd",
+    "resourceTypeKEY": "pol",
+    "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",
-    "ticketNumberTAG": "ticket number",
-    "creationTypeTAG": "cdk",
-    "botNameTAG": "name",
     "regionCodeTAG": "eu-west-2",
+    "ticketIDTAG": "ticket number",
+    "botNameTAG": "name",
+    "deploymentTypeTAG": "cdk",
     "deploymentDateTAG": "mm-dd-yyyy"
   }
 }

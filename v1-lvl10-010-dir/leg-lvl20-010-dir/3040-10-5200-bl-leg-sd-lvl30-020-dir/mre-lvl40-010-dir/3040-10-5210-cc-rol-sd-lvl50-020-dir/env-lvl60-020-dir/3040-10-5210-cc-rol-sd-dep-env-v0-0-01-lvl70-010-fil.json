@@ -1,4 +1,6 @@
 {
-  "awsAccountNumberIDKEY": "635602896676",
-  "iamPolicyKEY": "ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-pol-sd"
+  "webServicePlatformKEY": "AWS",
+  "accountNumberKEY": "635602896676",
+  "regionKEY": "eu-west-2",
+  "serviceKEY": "IAM"
 }

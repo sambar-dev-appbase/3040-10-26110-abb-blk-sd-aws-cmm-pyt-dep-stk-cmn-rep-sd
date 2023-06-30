@@ -1,5 +1,5 @@
 {
-  "resourceTypeKEY": "Other type",
+  "resourceTypeTAG": "Other type",
   "resourceStringTypeKEY": "Key/value",
   "userAccountNumber304010HostKEY": "secretValueKEY",
   "userAccountNumber304010PortKEY": "secretValueKEY",
@@ -9,8 +9,8 @@
   "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5415-jc-sec-sd",
-    "resourceTypeKEY": "sec",
+    "fqridTAG": "3040-10-5415-jc-sec-sd-aws",
+    "resourceTypeTAG": "sec",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",

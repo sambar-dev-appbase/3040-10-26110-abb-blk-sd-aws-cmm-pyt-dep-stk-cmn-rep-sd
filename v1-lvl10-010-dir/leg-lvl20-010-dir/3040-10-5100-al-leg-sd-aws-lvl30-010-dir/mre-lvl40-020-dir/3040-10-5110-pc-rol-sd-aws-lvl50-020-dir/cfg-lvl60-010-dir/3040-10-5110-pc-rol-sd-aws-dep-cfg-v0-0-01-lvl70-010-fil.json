@@ -2,8 +2,8 @@
   "resourceDescriptionKEY": "This Role is assigned to the MS ua-p-r-no-us-en-lo-3040-10-msv-sd to read subscription plan details from the DynamoDB table user-subscription-plan-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5110-pc-rol-sd",
-    "resourceTypeKEY": "rol",
+    "fqridTAG": "3040-10-5110-pc-rol-sd-aws",
+    "resourceTypeTAG": "rol",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",
     "envTAG": "sd",

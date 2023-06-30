@@ -1,9 +1,9 @@
 {
   "aliasNameKEY": "none",
   "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-r-no-us-en-lo-3040-10-rol-sd",
-  "fqridKEY": "3040-10-5510-fc-rol-sd",
+  "fqridKEY": "3040-10-5510-fc-rol-sd-aws",
   "accessTypeKEY": "none",
-  "stackNameKEY": "3040-10-5510-fc-rol-sd-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "stackNameKEY": "3040-10-5510-fc-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
   "deploymentOrderNumber5500KEY": "5510",
   "deletionProtectionFlag5500KEY": "none"
 }

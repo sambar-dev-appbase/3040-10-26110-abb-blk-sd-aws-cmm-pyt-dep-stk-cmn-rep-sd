@@ -1,9 +1,9 @@
 {
   "aliasNameKEY": "none",
   "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-pol-sd",
-  "fqridKEY": "3040-10-5405-fc-pol-sd",
+  "fqridKEY": "3040-10-5405-fc-pol-sd-aws",
   "accessTypeKEY": "none",
-  "stackNameKEY": "3040-10-5405-fc-pol-sd-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "stackNameKEY": "3040-10-5405-fc-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
   "deploymentOrderNumber5400KEY": "5405",
   "deletionProtectionFlag5400KEY": "none"
 }

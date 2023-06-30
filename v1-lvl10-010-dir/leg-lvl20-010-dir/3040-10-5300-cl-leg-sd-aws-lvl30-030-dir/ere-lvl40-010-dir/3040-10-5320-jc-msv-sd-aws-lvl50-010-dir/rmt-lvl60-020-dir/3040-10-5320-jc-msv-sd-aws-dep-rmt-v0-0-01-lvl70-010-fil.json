@@ -1,0 +1,13 @@
+{
+  "aliasNameKEY": "Synapse",
+  "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-msv-sd",
+  "fqridKEY": "3040-10-5320-jc-msv-sd-aws",
+  "accessTypeKEY": "post",
+  "stackNameKEY": "3040-10-5320-jc-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber5300KEY": "5320",
+  "deletionProtectionFlag5300KEY": "none",
+  "deploymentOrderNumber5400KEY": "5420",
+  "deletionProtectionFlag5400KEY": "none",
+  "deploymentOrderNumber5600KEY": "1111",
+  "deletionProtectionFlag5600KEY": "none"
+}

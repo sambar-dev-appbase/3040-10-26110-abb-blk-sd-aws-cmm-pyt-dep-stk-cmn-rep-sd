@@ -1,1 +1,13 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "userAccountNumber304010HostKEY": "secretValueKEY",
+  "userAccountNumber304010PortKEY": "secretValueKEY",
+  "userAccountNumber304010DatabaseKEY": "secretValueKEY",
+  "userAccountNumber304010UsernameKEY": "secretValueKEY",
+  "userAccountNumber304010PasswordKEY": "secretValueKEY",
+  "resourceTagKEY": {
+    "ticketIDTAG": "ticket-number",
+    "botNameTAG": "name",
+    "deploymentDateTAG": "current-date"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "resourceMetadataKEY": "yes",
   "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ua-p-r-no-us-en-lo-3040-10-user-registration-image-3040-10-rol-sd to communicate with S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
   "resourcePermissionStatementStructureKEY": {
     "Version": "2012-10-17",
@@ -21,9 +22,6 @@
     "appTAG": "sambar",
     "envTAG": "sd",
     "regionCodeTAG": "eu-west-2",
-    "ticketIDTAG": "ticket number",
-    "botNameTAG": "name",
-    "deploymentTypeTAG": "cdk",
-    "deploymentDateTAG": "mm-dd-yyyy"
+    "deploymentTypeTAG": "cdk"
   }
 }

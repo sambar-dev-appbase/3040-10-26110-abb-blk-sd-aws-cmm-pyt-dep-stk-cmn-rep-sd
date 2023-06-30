@@ -1,11 +1,7 @@
 {
+  "resourceMetadataKEY": "yes",
   "resourceTypeTAG": "Other type",
   "resourceStringTypeKEY": "Key/value",
-  "userAccountNumber304010HostKEY": "secretValueKEY",
-  "userAccountNumber304010PortKEY": "secretValueKEY",
-  "userAccountNumber304010DatabaseKEY": "secretValueKEY",
-  "userAccountNumber304010UsernameKEY": "secretValueKEY",
-  "userAccountNumber304010PasswordKEY": "secretValueKEY",
   "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
@@ -15,9 +11,6 @@
     "appTAG": "sambar",
     "envTAG": "sd",
     "regionCodeTAG": "eu-west-2",
-    "ticketIDTAG": "ticket number",
-    "botNameTAG": "name",
-    "deploymentTypeTAG": "cdk",
-    "deploymentDateTAG": "mm-dd-yyyy"
+    "deploymentTypeTAG": "cdk"
   }
 }

@@ -1,8 +1,7 @@
 {
+  "resourceMetadataKEY": "yes",
   "resourceTypeTAG": "Other type",
   "resourceStringTypeKEY": "Key/value",
-  "userRegistrationImage304010AccessKEY": "secretValueKEY",
-  "userRegistrationImage304010SecretAccessKEY": "secretValueKEY",
   "resourceDescriptionKEY": "This Secret contains credentials to access S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",

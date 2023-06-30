@@ -1,4 +1,5 @@
 {
+  "resourceMetadataKEY": "yes",
   "resourceDescriptionKEY": "This Role is assigned to the ua-p-w-no-us-en-lo-3040-10-msv-sd MS to communicate with MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
@@ -8,9 +9,6 @@
     "appTAG": "sambar",
     "envTAG": "sd",
     "regionCodeTAG": "eu-west-2",
-    "ticketIDTAG": "ticket number",
-    "botNameTAG": "name",
-    "deploymentTypeTAG": "cdk",
-    "deploymentDateTAG": "mm-dd-yyyy"
+    "deploymentTypeTAG": "cdk"
   }
 }

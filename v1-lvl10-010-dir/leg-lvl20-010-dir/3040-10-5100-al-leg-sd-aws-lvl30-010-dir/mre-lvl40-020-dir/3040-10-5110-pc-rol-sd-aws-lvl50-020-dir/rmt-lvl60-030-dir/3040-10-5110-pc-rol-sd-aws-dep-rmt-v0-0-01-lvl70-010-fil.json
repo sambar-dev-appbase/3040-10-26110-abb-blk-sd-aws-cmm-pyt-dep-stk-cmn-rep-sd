@@ -1,4 +1,5 @@
--aws{
+{
+  "resourceMetadataKEY": "yes",
   "aliasNameKEY": "none",
   "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd",
   "fqridKEY": "3040-10-5110-pc-rol-sd-aws",

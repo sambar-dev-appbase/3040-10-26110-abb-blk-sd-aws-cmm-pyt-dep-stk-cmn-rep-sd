@@ -1,1 +1,10 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "userRegistrationImage304010AccessKEY": "secretValueKEY",
+  "userRegistrationImage304010SecretAccessKEY": "secretValueKEY",
+  "resourceTagKEY": {
+    "ticketIDTAG": "ticket-number",
+    "botNameTAG": "name",
+    "deploymentDateTAG": "current-date"
+  }
+}

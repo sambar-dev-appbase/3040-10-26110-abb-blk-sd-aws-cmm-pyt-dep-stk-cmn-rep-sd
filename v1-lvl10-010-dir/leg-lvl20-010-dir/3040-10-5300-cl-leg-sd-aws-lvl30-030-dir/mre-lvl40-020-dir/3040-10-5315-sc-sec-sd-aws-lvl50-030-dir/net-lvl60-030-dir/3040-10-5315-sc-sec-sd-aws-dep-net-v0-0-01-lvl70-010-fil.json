@@ -1,0 +1,7 @@
+{
+ "resourceMetadataKEY": "yes",
+ "kubeProxyKey": "1.26.4",
+ "vpcCniKEY": "1.12.6",
+ "coreDnsKEY": "1.9.3",
+ "ebsCsiDriver": "1.20.0"
+}

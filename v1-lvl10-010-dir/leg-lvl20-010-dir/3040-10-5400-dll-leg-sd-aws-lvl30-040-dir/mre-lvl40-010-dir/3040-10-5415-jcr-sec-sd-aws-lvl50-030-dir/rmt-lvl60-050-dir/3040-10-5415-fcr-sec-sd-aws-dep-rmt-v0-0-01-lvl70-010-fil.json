@@ -1,10 +1,10 @@
 {
   "resourceMetadataKEY": "yes",
   "aliasNameKEY": "none",
-  "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-secr-sd",
-  "fqridKEY": "3040-10-5415-jcr-secr-sd-aws",
+  "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-account-number-3040-10-sec-sd",
+  "fqridKEY": "3040-10-5415-jcr-sec-sd-aws",
   "accessTypeKEY": "none",
-  "stackNameKEY": "3040-10-5415-jcr-secr-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "stackNameKEY": "3040-10-5415-jcr-sec-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
   "deploymentOrderNumber5400KEY": "5415",
   "deletionProtectionFlag5400KEY": "none"
 }

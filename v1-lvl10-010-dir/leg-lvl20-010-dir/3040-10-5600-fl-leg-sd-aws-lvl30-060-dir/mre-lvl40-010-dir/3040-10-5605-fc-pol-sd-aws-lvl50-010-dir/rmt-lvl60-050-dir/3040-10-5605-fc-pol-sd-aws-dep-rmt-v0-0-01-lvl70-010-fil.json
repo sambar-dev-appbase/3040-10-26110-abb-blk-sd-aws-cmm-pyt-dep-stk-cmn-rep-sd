@@ -2,9 +2,9 @@
   "resourceMetadataKEY": "yes",
   "aliasNameKEY": "none",
   "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-w-no-us-en-lo-3040-10-pol-sd",
-  "fqridKEY": "3040-10-5605-fc-pol-sd-aws",
+  "fqridKEY": "3040-10-5605-fcr-pol-sd-aws",
   "accessTypeKEY": "none",
-  "stackNameKEY": "3040-10-5605-fc-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "stackNameKEY": "3040-10-5605-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
   "deploymentOrderNumber5600KEY": "5605",
   "deletionProtectionFlag5600KEY": "none"
 }

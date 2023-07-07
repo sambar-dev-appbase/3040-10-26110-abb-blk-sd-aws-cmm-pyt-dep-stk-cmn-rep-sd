@@ -1,6 +1,6 @@
 {
  "resourceMetadataKEY": "yes",
- "botStakeKEY": "pyt",
+ "botStackKEY": "pyt",
  "containerKEY": "id2",
  "osKEY": "ubuntu 20.04",
  "npmKEY": "8.09",

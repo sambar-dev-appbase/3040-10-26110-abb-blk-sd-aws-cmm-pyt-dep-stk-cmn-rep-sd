@@ -3,7 +3,7 @@
   "resourceDescriptionKEY": "This Role is assigned to the  ua-p-w-no-us-en-lo-3040-10-msv-sd MS to communicate with the S3 Bucket user-registration-image-mmm-yy-bkt-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5310-mc-rol-sd-aws",
+    "fqridTAG": "3040-10-5310-mcr-rol-sd-aws",
     "resourceTypeTAG": "rol",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",

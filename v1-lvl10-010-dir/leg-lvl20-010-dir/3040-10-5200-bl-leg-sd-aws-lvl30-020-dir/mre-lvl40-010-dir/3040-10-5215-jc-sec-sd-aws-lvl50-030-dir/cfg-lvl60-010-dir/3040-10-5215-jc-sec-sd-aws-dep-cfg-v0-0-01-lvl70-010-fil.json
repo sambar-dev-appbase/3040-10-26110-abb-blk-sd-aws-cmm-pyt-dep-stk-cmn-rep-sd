@@ -5,7 +5,7 @@
   "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5215-jc-sec-sd-aws",
+    "fqridTAG": "3040-10-5215-jcr-secr-sd-aws",
     "resourceTypeTAG": "sec",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",

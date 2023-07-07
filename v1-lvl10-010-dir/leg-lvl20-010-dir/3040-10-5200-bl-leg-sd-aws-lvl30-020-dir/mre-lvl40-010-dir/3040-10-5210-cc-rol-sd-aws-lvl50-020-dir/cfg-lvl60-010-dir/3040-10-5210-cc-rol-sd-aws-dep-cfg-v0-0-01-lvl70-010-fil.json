@@ -3,7 +3,7 @@
   "resourceDescriptionKEY": "This Role is assigned to the MS ua-p-r-no-us-en-lo-3040-10-msv-sd to communicate with the MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5210-cc-rol-sd-aws",
+    "fqridTAG": "3040-10-5210-ccr-rol-sd-aws",
     "resourceTypeTAG": "rol",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",

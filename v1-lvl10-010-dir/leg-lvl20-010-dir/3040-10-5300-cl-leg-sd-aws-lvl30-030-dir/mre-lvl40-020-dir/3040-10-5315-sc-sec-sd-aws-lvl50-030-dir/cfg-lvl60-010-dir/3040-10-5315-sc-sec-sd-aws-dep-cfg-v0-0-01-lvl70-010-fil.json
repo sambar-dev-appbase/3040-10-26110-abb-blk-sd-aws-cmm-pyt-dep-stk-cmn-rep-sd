@@ -5,7 +5,7 @@
   "resourceDescriptionKEY": "This Secret contains credentials to access S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
   "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5315-sc-sec-sd-aws",
+    "fqridTAG": "3040-10-5315-scr-secr-sd-aws",
     "resourceTypeTAG": "sec",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",

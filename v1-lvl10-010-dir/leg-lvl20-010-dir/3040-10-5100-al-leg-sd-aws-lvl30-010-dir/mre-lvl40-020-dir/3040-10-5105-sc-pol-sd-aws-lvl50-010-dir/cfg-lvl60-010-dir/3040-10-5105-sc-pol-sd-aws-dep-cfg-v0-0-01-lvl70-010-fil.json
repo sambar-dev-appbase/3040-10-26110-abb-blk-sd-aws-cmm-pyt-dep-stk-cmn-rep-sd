@@ -111,7 +111,7 @@
 },
 "resourceTagKEY": {
     "aliasNameTAG": "none",
-    "fqridTAG": "3040-10-5105-sc-pol-sd-aws",
+    "fqridTAG": "3040-10-5105-scr-pol-sd-aws",
     "resourceTypeTAG": "pol",
     "blockNumberTAG": "3040-10",
     "appTAG": "sambar",

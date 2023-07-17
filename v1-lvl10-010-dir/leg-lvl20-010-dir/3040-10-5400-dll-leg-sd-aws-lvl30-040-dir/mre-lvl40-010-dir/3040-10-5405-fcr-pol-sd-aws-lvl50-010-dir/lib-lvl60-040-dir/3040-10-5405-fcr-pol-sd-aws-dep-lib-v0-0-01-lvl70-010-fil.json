@@ -1,3 +1,17 @@
 {
-  "resourceMetadataKEY": "no"
+  "resourceMetadataKEY": "yes",
+  "libraryListKEY": [
+    {
+      "libraryNameKEY": "library_name_1",
+      "libraryVersionNumberKEY": "1.0.0"
+    },
+    {
+      "libraryNameKEY": "library_name_2",
+      "libraryVersionNumberKEY": "2.3.1"
+    },
+    {
+      "libraryNameKEY": "library_name_3",
+      "libraryVersionNumberKEY": "0.5.2"
+    }
+  ]
 }

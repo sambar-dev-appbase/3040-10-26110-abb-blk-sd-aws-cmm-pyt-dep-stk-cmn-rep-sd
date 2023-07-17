@@ -1,0 +1,17 @@
+{
+  "resourceMetadataKEY": "yes",
+  "packageListKEY": [
+    {
+      "packageNameKEY": "package_name_1",
+      "packageVersionNumberKEY": "1.0.0"
+    },
+    {
+      "packageNameKEY": "package_name_2",
+      "packageVersionNumberKEY": "2.3.1"
+    },
+    {
+      "packageNameKEY": "package_name_3",
+      "packageVersionNumberKEY": "0.5.2"
+    }
+  ]
+}

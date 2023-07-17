@@ -1,17 +1,17 @@
 {
-  "resourceMetadataKEY": "yes",
-  "packageListKEY": [
+"resourceMetadataKEY": "yes",  
+"packageListKEY": [
     {
-      "packageNameKEY": "package_name_1",
-      "packageVersionNumberKEY": "1.0.0"
+      "package1NameKEY": "package_name_1",
+      "package1VersionNumberKEY": "1.0.0"
     },
     {
-      "packageNameKEY": "package_name_2",
-      "packageVersionNumberKEY": "2.3.1"
+      "package2NameKEY": "package_name_2",
+      "package2VersionNumberKEY": "2.3.1"
     },
     {
-      "packageNameKEY": "package_name_3",
-      "packageVersionNumberKEY": "0.5.2"
+      "package3NameKEY": "package_name_3",
+      "package3VersionNumberKEY": "0.5.2"
     }
   ]
 }

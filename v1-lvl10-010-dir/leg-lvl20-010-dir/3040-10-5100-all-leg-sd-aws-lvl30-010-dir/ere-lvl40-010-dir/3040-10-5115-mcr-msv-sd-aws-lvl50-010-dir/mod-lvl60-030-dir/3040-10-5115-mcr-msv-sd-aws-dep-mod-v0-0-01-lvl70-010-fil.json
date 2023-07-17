@@ -1,1 +1,3 @@
-Sample file.
+{
+  "resourceMetadataKEY": "no"
+}

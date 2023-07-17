@@ -1,1 +1,4 @@
-Sample file.
+{
+  "resourceMetadataKEY": "yes",
+  "pipVersionNumberKEY": "8.09"
+}

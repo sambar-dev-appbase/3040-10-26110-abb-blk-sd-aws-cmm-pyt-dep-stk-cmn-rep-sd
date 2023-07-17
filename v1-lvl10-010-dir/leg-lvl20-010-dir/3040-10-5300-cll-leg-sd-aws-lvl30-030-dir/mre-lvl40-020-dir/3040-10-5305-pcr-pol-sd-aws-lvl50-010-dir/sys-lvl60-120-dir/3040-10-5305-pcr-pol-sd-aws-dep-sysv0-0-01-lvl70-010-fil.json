@@ -1,7 +1,0 @@
-{
-  "resourceMetadataKEY": "yes",
-  "operatingSystemNameKEY": "ubuntu",
-  "operatingSystemVersionNumberKEY": "20.04",
-  "k8sClusterNameKEY": "sambar-dev-1320-10-ctr-sd-aws",
-  "k8sClusterVersionNumberKEY": "1.26"
-}

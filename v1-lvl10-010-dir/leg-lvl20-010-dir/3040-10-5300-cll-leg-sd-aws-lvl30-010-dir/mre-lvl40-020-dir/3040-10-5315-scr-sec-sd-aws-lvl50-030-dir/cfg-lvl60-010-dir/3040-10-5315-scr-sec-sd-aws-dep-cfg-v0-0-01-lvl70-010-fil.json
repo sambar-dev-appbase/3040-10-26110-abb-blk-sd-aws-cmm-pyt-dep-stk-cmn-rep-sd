@@ -1,0 +1,22 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "resourceTypeTAG": "other-type-of-secret",
+  "resourceStringTypeKEY": "key/value",
+  "secretTextKEY": "XXXX",
+  "resourceDescriptionKEY": "This Secret contains credentials to access S3 Bucket user-registration-image-mmm-yy-3040-10-bkt-sd.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "ifqridKEY": "3040-10-5315-scr-sec-sd-aws",
+    "resourceTypeKEY": "sec",
+    "blockNumberKEY": "3040-10",
+    "applicationKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

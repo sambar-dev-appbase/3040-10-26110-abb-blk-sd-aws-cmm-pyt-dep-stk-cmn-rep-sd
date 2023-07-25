@@ -1,0 +1,20 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "webServicePlatformKEY": "aws",
+  "accountNumberKEY": "635602896676",
+  "regionAreaNameKEY": "europe",
+  "regionNameKEY": "london",
+  "regionCodeKEY": "eu-west-2",
+  "serviceNameKEY": "secret-manager",
+  "serviceTypeKEY": "regional"
+},
+  "operation": {
+    "resourceMetadataKEY": "no",
+    "webServicePlatformNameKEY": "aws",
+    "accountNumberKEY": "635602896676",
+    "regionAreaNameKEY": "europe",
+    "regionNameKEY": "london",
+    "regionCodeKEY": "eu-west-2"
+  }
+}

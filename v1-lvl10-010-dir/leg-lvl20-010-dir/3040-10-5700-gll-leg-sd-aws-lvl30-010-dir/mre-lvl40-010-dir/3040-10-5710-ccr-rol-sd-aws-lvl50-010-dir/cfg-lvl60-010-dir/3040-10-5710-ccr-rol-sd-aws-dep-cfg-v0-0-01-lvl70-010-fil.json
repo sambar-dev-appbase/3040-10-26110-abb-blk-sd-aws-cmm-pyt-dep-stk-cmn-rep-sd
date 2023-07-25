@@ -1,0 +1,24 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "trusterdEntityTypeKEY": "aws service",
+  "commonUseCaseKEY": "ec2",
+  "resourcePolicyNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-pol-sd",
+  "resourceDescriptionKEY": "This Role is assigned to the ssp-gp-no-us-en-lo-2040-10-msv-sd MS to communicate with ub-gp-no-us-en-lo-3040-10-msv-sd MS",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "ifqridKEY": "3040-10-5710-ccr-rol-sd-aws",
+    "resourceTypeKEY": "rol",
+    "blockNumberKEY": "3040-10",   
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}
+

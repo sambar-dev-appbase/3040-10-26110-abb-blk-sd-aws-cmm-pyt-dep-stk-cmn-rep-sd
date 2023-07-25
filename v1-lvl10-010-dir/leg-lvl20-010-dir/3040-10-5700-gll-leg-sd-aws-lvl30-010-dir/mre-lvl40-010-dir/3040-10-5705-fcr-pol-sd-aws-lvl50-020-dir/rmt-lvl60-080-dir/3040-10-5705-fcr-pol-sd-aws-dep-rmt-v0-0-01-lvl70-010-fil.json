@@ -1,0 +1,14 @@
+{
+  "installation": {
+    "aliasNameKEY": "none",
+    "resourceNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-pol-sd",
+    "fqridKEY": "3040-10-5705-fcr-pol-sd-aws",
+    "accessTypeKEY": "none",
+    "stackNameKEY": "3040-10-5705-fcr-pol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+    "deploymentOrderNumber5700KEY": "5705",
+    "deletionProtectionFlag5700KEY": "none"
+  },
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

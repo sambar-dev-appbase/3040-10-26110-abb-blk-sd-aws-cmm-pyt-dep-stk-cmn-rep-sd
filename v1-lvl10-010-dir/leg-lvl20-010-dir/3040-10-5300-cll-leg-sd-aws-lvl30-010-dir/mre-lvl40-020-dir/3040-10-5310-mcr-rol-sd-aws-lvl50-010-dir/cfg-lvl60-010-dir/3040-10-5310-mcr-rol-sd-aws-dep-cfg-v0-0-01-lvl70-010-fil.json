@@ -1,0 +1,23 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "trusterdEntityTypeKEY": "aws service",
+  "commonUseCaseKEY": "ec2",
+  "resourcePolicyNameKEY": "ua-p-w-no-us-en-lo-3040-10-user-registration-image-3040-10-rol-sd",
+  "resourceDescriptionKEY": "This Role is assigned to the  ua-p-w-no-us-en-lo-3040-10-msv-sd MS to communicate with the S3 Bucket user-registration-image-mmm-yy-bkt-sd.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "ifqridKEY": "3040-10-5310-mcr-rol-sd-aws",
+    "resourceTypeKEY": "rol",
+    "blockNumberKEY": "3040-10",   
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

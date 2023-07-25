@@ -1,0 +1,17 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "yes",
+    "aliasNameKEY": "Aethos",
+    "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-msv-sd",
+    "fqridKEY": "3040-10-5515-jcr-msv-sd-aws",
+    "accessTypeKEY": "get-post",
+    "stackNameKEY": "3040-10-5515-jcr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+    "deploymentOrderNumber5500KEY": "5515",
+    "deletionProtectionFlag5500KEY": "none",
+    "deploymentOrderNumber5600KEY": "1111",
+    "deletionProtectionFlag5600KEY": "none"
+  },
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

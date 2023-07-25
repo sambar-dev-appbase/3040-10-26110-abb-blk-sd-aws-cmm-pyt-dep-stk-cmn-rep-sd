@@ -1,0 +1,23 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "trusterdEntityTypeKEY": "aws service",
+  "commonUseCaseKEY": "ec2",
+  "resourcePolicyNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd",
+  "resourceDescriptionKEY": "This Role is assigned to the MS ua-p-r-no-us-en-lo-3040-10-msv-sd to read subscription plan details from the DynamoDB table user-subscription-plan-3040-10-dtn-sd.",
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "botNameKEY": "botname",
+    "ifqridKEY": "3040-10-5110-pcr-rol-sd-aws",
+    "resourceTypeKEY": "rol",
+    "blockNumberKEY": "3040-10",   
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "sdk"
+  }
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

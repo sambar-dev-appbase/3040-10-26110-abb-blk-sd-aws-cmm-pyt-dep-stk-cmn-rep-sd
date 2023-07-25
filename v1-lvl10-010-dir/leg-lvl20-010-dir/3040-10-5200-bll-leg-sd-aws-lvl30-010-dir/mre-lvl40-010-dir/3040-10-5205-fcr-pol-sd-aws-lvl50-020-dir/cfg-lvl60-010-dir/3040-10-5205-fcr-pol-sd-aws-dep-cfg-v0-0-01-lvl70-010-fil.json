@@ -1,0 +1,82 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "trusterdEntityTypeKEY": "aws service",
+  "commonUseCaseKEY": "ec2",
+  "resourcePolicyNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-acoount-number-3040-10-pol-sd",
+  "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-rol-sd to communicate with the MySQL table user-account-number-3040-10-dtn-sd.",
+  "resourcePermissionStatementStructureKEY": {
+    "Version": "2012-10-17",
+    "Statement": [
+      {
+        "Action": [
+          "rds:*",
+          "application-autoscaling:DeleteScalingPolicy",
+          "application-autoscaling:DeregisterScalableTarget",
+          "application-autoscaling:DescribeScalableTargets",
+          "application-autoscaling:DescribeScalingActivities",
+          "application-autoscaling:DescribeScalingPolicies",
+          "application-autoscaling:PutScalingPolicy",
+          "application-autoscaling:RegisterScalableTarget",
+          "cloudwatch:DescribeAlarms",
+          "cloudwatch:GetMetricStatistics",
+          "cloudwatch:PutMetricAlarm",
+          "cloudwatch:DeleteAlarms",
+          "ec2:DescribeAccountAttributes",
+          "ec2:DescribeAvailabilityZones",
+          "ec2:DescribeCoipPools",
+          "ec2:DescribeInternetGateways",
+          "ec2:DescribeLocalGatewayRouteTablePermissions",
+          "ec2:DescribeLocalGatewayRouteTables",
+          "ec2:DescribeLocalGatewayRouteTableVpcAssociations",
+          "ec2:DescribeLocalGateways",
+          "ec2:DescribeSecurityGroups",
+          "ec2:DescribeSubnets",
+          "ec2:DescribeVpcAttribute",
+          "ec2:DescribeVpcs",
+          "ec2:GetCoipPoolUsage",
+          "sns:ListSubscriptions",
+          "sns:ListTopics",
+          "sns:Publish",
+          "logs:DescribeLogStreams",
+          "logs:GetLogEvents",
+          "outposts:GetOutpostInstanceTypes"
+        ],
+        "Effect": "Allow",
+        "Resource": "*"
+      },
+      {
+        "Action": "pi:*",
+        "Effect": "Allow",
+        "Resource": "arn:aws:pi:*:*:metrics/rds/*"
+      },
+      {
+        "Action": "iam:CreateServiceLinkedRole",
+        "Effect": "Allow",
+        "Resource": "*",
+        "Condition": {
+          "StringLike": {
+            "iam:AWSServiceName": [
+              "rds.amazonaws.com",
+              "rds.application-autoscaling.amazonaws.com"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "resourceTagKEY": {
+    "aliasNameKEY": "none",
+    "cfqridKEY": "3040-10-5205-fcr-pol-sd-aws",
+    "resourceTypeKEY": "pol",
+    "blockNumberKEY": "3040-10",
+    "applicationNameKEY": "sambar",
+    "environmentIDKEY": "sd",
+    "regionCodeKEY": "eu-west-2",
+    "deploymentTypeKEY": "cdk"
+  }
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

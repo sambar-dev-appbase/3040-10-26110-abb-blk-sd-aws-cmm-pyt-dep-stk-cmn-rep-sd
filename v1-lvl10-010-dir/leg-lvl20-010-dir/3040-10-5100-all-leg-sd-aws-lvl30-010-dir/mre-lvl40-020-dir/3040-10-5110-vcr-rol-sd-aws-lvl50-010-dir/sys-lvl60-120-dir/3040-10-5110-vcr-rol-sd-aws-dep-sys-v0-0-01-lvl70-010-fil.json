@@ -1,0 +1,14 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "no",
+    "operatingSystemNameKEY": "ubuntu",
+    "operatingSystemVersionNumberKEY": "20.04"
+  },
+  "operation": {
+    "k8sClusterNameKEY": "sambar-dev-1320-10-ctr-sd-aws",
+    "k8sClusterVersionNumberKEY": "1.26",
+    "botVersionNumberKEY": "v0-0-04",
+    "stackVersionNumberKEY": "v0-0-01",
+    "baseImageIDKEY": "image-id"
+  }
+}

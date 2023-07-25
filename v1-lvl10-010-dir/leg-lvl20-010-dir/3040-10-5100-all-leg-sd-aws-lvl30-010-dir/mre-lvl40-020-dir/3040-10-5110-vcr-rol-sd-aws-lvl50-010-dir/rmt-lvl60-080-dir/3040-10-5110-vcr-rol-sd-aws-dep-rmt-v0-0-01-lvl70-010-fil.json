@@ -1,0 +1,15 @@
+{
+  "installation": {
+  "resourceMetadataKEY": "yes",
+  "aliasNameKEY": "none",
+  "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-rol-sd",
+  "cfqridKEY": "3040-10-5110-vcr-rol-sd-aws",
+  "accessTypeKEY": "none",
+  "stackNameKEY": "3040-10-5110-vcr-rol-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+  "deploymentOrderNumber5100KEY": "5110",
+  "deletionProtectionFlag5100KEY": "none"
+},
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

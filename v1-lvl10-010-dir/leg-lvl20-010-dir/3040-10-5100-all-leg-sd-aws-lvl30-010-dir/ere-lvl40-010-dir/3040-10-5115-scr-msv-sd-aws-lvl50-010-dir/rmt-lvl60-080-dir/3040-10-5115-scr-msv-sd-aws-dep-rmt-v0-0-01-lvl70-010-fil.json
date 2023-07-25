@@ -1,0 +1,19 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "yes",
+    "aliasNameKEY": "Techlon",
+    "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-msv-sd",
+    "fqridKEY": "3040-10-5115-mcr-msv-sd-aws",
+    "accessTypeKEY": "post",
+    "stackNameKEY": "3040-10-5115-mcr-msv-sd-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+    "deploymentOrderNumber5100KEY": "5115",
+    "deletionProtectionFlag5100KEY": "none",
+    "deploymentOrderNumber5200KEY": "5220",
+    "deletionProtectionFlag5200KEY": "none",
+    "deploymentOrderNumber5500KEY": "1111",
+    "deletionProtectionFlag5500KEY": "none"
+  },
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

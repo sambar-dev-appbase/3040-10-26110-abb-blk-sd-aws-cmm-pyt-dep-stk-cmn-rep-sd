@@ -1,0 +1,14 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "no",
+    "library1NameKEY": "os",
+    "library1VersionNumberKEY": "1.0.0",
+    "library2NameKEY": "json",
+    "library2VersionNumberKEY": "2.3.1",
+    "library3NameKEY": "library_name_3",
+    "library3VersionNumberKEY": "0.5.2"
+  },
+  "operation": {
+    "resourceMetadataKEY": "no"
+  }
+}

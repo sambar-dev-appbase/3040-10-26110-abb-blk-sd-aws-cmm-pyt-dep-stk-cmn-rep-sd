@@ -2,12 +2,12 @@
   "installation": {
     "resourceMetadataKEY": "no"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
-    "vpcIDKEY": "vpc-088bbbf532ac350bc",
-    "kubeProxyVersionNumberKEY": "1.21.2",
-    "vpcCNIVersionNumberKEY": "1.10.1",
-    "coreDNSVersionNumberKEY": "1.8.4",
+    "vpcIDKEY": "vpc-01f2f78a96c5df9a8",
+    "kubeProxyVersionNumberKEY": "1.26.4",
+    "vpcCNIVersionNumberKEY": "1.12.6",
+    "coreDNSVersionNumberKEY": "1.9.3",
     "ebsCSIDriverVersionNumberKEY": "1.20.0"
   }
 }

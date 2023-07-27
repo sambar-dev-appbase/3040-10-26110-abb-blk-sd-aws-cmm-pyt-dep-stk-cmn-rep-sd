@@ -1,0 +1,14 @@
+{
+  "installation": {
+    "resourceMetadataKEY": "no",
+    "package1NameKEY": "npm",
+    "package1VersionNumberKEY": "8.19.4",
+    "package2NameKEY": "node.js",
+    "package2VersionNumberKEY": "16.20.0",
+    "package3NameKEY": "package-name",
+    "package3VersionNumberKEY": "3.8.10"
+  },
+  "communication": {
+    "resourceMetadataKEY": "no"
+  }
+}

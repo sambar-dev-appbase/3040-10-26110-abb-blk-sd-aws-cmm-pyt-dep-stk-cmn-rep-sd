@@ -9,7 +9,7 @@
   "deploymentOrderNumber5100KEY": "5105",
   "deletionProtectionFlag5100KEY": "none"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

@@ -76,7 +76,7 @@
     "deploymentTypeKEY": "cdk"
   }
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

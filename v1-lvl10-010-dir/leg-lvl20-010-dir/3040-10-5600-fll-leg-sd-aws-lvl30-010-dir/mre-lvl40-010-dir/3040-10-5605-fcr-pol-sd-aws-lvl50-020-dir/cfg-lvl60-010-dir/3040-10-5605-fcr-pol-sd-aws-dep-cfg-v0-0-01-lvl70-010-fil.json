@@ -3,8 +3,7 @@
   "resourceMetadataKEY": "yes",
   "trusterdEntityTypeKEY": "aws service",
   "commonUseCaseKEY": "ec2",
-  "resourcePolicyNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-pol-sd",
-  "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-rol-sd to communicate with ua-p-w-no-us-en-lo-3040-10-msv-sd MS.",
+  "resourceDescriptionKEY": "This Policy is assigned to the IAM Role ub-gp-no-us-en-lo-3040-10-ua-p-w-no-us-en-lo-3040-10-rol-sd to communicate with ua-p-w-no-us-en-lo-3040-10-msv-sd MS.",
   "resourcePermissionStatementStructureKEY": {
     "Version": "2012-10-17",
     "Statement": [
@@ -87,7 +86,7 @@
   },
   "resourceTagKEY": {
     "aliasNameKEY": "none",
-    "cfqridKEY": "3040-10-5705-fcr-pol-sd-aws",
+    "cfqridKEY": "3040-10-5605-fcr-pol-sd-aws",
     "resourceTypeKEY": "pol",
     "blockNumberKEY": "3040-10",
     "applicationNameKEY": "sambar",

@@ -8,7 +8,7 @@
     "package3NameKEY": "package-name",
     "package3VersionNumberKEY": "3.8.10"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

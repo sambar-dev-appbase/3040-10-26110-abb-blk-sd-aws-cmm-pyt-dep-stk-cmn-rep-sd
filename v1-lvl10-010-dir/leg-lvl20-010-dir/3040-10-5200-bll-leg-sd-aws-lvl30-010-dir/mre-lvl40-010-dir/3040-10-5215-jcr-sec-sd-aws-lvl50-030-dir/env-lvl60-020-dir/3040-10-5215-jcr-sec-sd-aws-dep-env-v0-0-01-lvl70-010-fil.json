@@ -9,7 +9,7 @@
     "serviceNameKEY": "iam",
     "serviceTypeKEY": "regional"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",

@@ -1,12 +1,14 @@
 {
   "installation": {
     "resourceMetadataKEY": "yes",
+        "accessNameKEY": "access key",
+    "secretNameKey": "secret key",
     "resourceTagKEY": {
       "ticketIDKEY": "ticket-number",
       "deploymentDateKEY": "current-date"
     }
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

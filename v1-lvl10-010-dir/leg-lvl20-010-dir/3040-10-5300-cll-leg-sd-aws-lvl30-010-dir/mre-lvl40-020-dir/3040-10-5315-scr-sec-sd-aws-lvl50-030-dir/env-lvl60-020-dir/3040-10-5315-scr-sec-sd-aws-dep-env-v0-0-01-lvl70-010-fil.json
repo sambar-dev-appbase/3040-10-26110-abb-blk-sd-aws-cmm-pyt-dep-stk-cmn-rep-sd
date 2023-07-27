@@ -9,7 +9,7 @@
   "serviceNameKEY": "secret-manager",
   "serviceTypeKEY": "regional"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",

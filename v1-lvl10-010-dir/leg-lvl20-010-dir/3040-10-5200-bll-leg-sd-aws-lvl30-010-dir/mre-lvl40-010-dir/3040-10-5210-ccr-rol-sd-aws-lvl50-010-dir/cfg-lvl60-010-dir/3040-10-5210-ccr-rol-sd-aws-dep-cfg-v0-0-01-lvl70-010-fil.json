@@ -7,7 +7,6 @@
   "resourceDescriptionKEY": "This Role is assigned to the MS ua-p-r-no-us-en-lo-3040-10-msv-sd to communicate with the MySQL table user-account-number-3040-10-dtn-sd.",
   "resourceTagKEY": {
     "aliasNameKEY": "none",
-    "botNameKEY": "botname",
     "ifqridKEY": "3040-10-5210-ccr-rol-sd-aws",
     "resourceTypeKEY": "rol",
     "blockNumberKEY": "3040-10",   
@@ -17,7 +16,7 @@
     "deploymentTypeKEY": "sdk"
   }
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

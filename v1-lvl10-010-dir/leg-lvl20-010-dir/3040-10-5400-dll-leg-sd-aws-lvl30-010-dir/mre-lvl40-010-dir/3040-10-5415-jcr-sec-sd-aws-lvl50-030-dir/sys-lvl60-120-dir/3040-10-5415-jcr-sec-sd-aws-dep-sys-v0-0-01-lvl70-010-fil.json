@@ -1,10 +1,10 @@
 {
   "installation": {
     "resourceMetadataKEY": "no",
-    "operatingSystemNameKEY": "ubuntu",
+    "operatingSystemNameKEY": "galactic",
     "operatingSystemVersionNumberKEY": "20.04"
   },
-  "operation": {
+  "communication": {
     "k8sClusterNameKEY": "sambar-dev-1320-10-ctr-sd-aws",
     "k8sClusterVersionNumberKEY": "1.26",
     "botNameKEY": "bot-name",

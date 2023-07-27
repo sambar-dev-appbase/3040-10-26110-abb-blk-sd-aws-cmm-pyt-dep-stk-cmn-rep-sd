@@ -2,7 +2,7 @@
   "installation": {
     "resourceMetadataKEY": "no"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

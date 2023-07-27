@@ -17,7 +17,7 @@
     "deploymentTypeKEY": "sdk"
   }
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

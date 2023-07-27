@@ -6,7 +6,7 @@
       "deploymentDateKEY": "current-date"
     }
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

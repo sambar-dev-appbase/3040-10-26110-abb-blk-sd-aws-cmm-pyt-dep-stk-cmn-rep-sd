@@ -1,12 +1,16 @@
 {
   "installation": {
     "resourceMetadataKEY": "yes",
+    "hostNameKEY": "host",
+    "databaseNameKEY": "database",
+    "usernameNameKEY": "username",
+    "passwordNameKEY": "password",
     "resourceTagKEY": {
       "ticketIDKEY": "ticket-number",
       "deploymentDateKEY": "current-date"
     }
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

@@ -9,7 +9,7 @@
   "serviceNameKEY": "elastic kubernetes service",
   "serviceTypeKEY": "regional"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

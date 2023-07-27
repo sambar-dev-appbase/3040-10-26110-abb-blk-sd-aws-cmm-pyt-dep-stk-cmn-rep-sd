@@ -10,7 +10,7 @@
   "iamPolicyKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-r-no-us-en-lo-3040-10-pol-sd",
   "serviceTypeKEY": "global"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",

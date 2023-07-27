@@ -10,7 +10,7 @@
   "iamPolicyKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-rol-sd",
   "serviceTypeKEY": "global"
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",

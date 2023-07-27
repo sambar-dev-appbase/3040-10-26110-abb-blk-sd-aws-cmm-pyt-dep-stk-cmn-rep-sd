@@ -1,7 +1,7 @@
 {
   "installation": {
   "resourceMetadataKEY": "yes",
-  "resourceTypeTAG": "other-type-of-secret",
+  "resourceTypeKEY": "other-type-of-secret",
   "resourceStringTypeKEY": "key/value",
   "secretTextKEY": "XXXX",
   "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
@@ -16,7 +16,7 @@
     "deploymentTypeKEY": "sdk"
   }
 },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

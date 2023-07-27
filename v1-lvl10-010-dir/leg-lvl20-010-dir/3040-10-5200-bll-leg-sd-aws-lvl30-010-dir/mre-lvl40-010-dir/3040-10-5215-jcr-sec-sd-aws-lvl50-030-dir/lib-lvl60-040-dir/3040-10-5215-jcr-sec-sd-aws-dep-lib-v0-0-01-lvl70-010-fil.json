@@ -8,7 +8,7 @@
     "library3NameKEY": "library_name_3",
     "library3VersionNumberKEY": "0.5.2"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

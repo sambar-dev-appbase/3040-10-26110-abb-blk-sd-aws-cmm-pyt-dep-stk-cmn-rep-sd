@@ -9,7 +9,7 @@
     "serviceNameKEY": "iam",
     "serviceTypeKEY": "global"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",

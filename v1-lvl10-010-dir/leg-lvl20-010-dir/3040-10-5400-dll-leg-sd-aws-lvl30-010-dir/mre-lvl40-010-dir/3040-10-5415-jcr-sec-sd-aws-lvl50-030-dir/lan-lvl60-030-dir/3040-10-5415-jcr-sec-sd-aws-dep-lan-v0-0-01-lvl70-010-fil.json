@@ -4,7 +4,7 @@
     "stackProgrammingLanguageKEY": "python",
     "stackProgrammingLanguageVersionNumberKEY": "3.8.10"
   },
-  "operation": {
+  "communication": {
     "resourceMetadataKEY": "no"
   }
 }

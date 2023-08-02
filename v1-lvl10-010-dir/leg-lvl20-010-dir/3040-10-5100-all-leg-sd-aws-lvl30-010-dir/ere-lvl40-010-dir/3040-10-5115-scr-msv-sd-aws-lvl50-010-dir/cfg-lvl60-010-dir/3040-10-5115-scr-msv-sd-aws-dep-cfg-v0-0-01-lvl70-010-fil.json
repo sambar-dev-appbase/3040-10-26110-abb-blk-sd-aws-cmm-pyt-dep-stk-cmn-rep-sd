@@ -1,8 +1,14 @@
 {
-  "installation": {
-    "resourceMetadataKEY": "no"
+  "configuration": {
+    "elementMetadataKEY": "no"
   },
-  "communication": {
-    "resourceMetadataKEY": "no"
+  "configuration": {
+    "elementMetadataKEY": "no"
+  },
+  "installation": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

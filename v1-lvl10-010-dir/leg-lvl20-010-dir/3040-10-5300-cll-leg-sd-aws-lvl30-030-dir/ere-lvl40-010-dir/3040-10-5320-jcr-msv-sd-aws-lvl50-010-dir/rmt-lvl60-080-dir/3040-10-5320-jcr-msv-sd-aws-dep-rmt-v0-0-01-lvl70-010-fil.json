@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "aliasNameKEY": "Synapse",
     "resourceNameKEY": "ua-p-w-no-us-en-lo-3040-10-msv-sd",
@@ -13,7 +13,13 @@
     "deploymentOrderNumber5600KEY": "1111",
     "deletionProtectionFlag5600KEY": "none"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

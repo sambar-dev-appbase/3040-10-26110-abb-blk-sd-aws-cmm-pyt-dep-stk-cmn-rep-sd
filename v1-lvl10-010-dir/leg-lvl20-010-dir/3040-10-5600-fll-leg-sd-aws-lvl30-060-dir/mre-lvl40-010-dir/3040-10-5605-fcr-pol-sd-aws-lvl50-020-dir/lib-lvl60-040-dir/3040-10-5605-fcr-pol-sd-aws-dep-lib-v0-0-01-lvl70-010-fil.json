@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
     "library1NameKEY": "os",
     "library1VersionNumberKEY": "1.0.0",
@@ -8,7 +8,13 @@
     "library3NameKEY": "library_name_3",
     "library3VersionNumberKEY": "0.5.2"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

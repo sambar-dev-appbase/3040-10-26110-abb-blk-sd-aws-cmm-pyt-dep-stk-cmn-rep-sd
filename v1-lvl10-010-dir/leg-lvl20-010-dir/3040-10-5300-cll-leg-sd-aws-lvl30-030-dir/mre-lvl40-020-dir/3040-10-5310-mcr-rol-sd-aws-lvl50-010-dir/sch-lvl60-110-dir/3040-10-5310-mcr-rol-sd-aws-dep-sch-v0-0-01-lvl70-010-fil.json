@@ -1,12 +1,18 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "resourceTagKEY": {
       "ticketIDKEY": "ticket-number",
       "deploymentDateKEY": "current-date"
     }
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

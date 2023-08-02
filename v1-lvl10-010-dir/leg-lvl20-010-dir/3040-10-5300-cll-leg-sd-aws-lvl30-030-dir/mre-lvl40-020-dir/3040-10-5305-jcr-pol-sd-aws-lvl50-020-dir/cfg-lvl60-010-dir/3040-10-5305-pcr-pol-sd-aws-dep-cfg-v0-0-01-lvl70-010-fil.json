@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "trusterdEntityTypeKEY": "aws service",
   "commonUseCaseKEY": "ec2",
@@ -27,5 +27,10 @@
     "environmentIDKEY": "sd",
     "regionCodeKEY": "eu-west-2",
     "deploymentTypeKEY": "cdk"
+  },
+    "installation": {
+    "elementMetadataKEY": "no"
+  "installation": {
+    "elementMetadataKEY": "no"
   }
 }

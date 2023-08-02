@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "aliasNameKEY": "Techlon",
     "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-msv-sd",
@@ -13,7 +13,13 @@
     "deploymentOrderNumber5500KEY": "1111",
     "deletionProtectionFlag5500KEY": "none"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

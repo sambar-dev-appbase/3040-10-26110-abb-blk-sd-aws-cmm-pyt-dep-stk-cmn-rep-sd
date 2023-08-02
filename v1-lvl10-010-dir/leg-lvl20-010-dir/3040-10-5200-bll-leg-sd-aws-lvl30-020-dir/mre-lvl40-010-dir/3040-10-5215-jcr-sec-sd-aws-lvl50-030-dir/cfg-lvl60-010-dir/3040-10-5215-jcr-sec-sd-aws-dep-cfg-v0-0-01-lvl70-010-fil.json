@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "resourceTypeKEY": "other-type-of-secret",
   "resourceStringTypeKEY": "key/value",
@@ -16,7 +16,13 @@
     "deploymentTypeKEY": "sdk"
   }
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

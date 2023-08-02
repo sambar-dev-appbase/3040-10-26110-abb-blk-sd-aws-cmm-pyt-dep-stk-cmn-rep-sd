@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "aliasNameKEY": "none",
   "resourceNameKEY": "ua-p-r-no-us-en-lo-3040-10-user-account-number-3040-10-sec-sd",
@@ -9,7 +9,13 @@
   "deploymentOrderNumber5200KEY": "5215",
   "deletionProtectionFlag5200KEY": "none"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

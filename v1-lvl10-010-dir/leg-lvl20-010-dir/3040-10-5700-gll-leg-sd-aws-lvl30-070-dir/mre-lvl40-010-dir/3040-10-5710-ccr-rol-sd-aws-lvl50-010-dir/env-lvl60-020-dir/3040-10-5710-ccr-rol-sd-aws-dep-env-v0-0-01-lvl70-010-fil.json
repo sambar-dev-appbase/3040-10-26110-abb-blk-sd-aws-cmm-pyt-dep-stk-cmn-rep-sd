@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "webServicePlatformNameKEY": "aws",
   "accountNumberKEY": "635602896676",
@@ -10,12 +10,18 @@
   "iamPolicyKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-rol-sd",
   "serviceTypeKEY": "global"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",
     "regionAreaNameKEY": "europe",
     "regionNameKEY": "london",
     "regionCodeKEY": "eu-west-2"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

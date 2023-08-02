@@ -1,14 +1,21 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
-    "operatingSystemNameKEY": "galactic",
+    "operatingSystemNameKEY": "galactic oc",
     "operatingSystemVersionNumberKEY": "20.04"
   },
-  "communication": {
+  "installation": {
     "k8sClusterNameKEY": "sambar-dev-1320-10-ctr-sd-aws",
     "k8sClusterVersionNumberKEY": "1.26",
+    "botNameKEY": "botname",
     "botVersionNumberKEY": "v0-0-04",
     "stackVersionNumberKEY": "v0-0-01",
     "baseImageIDKEY": "image-id"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

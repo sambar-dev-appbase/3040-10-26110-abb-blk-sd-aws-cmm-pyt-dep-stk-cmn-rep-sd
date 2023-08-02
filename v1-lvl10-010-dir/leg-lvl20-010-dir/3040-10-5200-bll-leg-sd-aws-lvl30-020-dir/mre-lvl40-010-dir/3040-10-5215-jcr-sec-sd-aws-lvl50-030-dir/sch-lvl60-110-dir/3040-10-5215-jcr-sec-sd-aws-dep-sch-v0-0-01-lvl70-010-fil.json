@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "yes",
     "hostNameKEY": "host",
     "databaseNameKEY": "database",
@@ -10,7 +10,13 @@
       "deploymentDateKEY": "current-date"
     }
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

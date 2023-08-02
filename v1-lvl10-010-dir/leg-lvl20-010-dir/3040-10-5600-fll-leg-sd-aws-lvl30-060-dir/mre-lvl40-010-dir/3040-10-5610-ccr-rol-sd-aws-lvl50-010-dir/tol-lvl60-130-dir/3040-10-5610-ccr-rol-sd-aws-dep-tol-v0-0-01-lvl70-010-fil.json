@@ -1,12 +1,18 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
     "tool1NameKEY": "awscli",
     "tool1VersionNumberKEY": "2.4.7",
     "tool2NameKEY": "kubectl",
     "tool2VersionNumberKEY": "1.26"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

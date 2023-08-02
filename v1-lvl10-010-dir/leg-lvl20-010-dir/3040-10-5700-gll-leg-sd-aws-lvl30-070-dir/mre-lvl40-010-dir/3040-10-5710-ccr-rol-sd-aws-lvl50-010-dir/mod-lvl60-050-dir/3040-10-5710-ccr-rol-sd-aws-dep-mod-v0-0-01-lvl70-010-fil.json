@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
     "module1NameKEY": "module_name_1",
     "module1VersionNumberKEY": "1.28.0",
@@ -8,7 +8,13 @@
     "module3NameKEY": "module_name_3",
     "module3VersionNumberKEY": "0.5.2"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

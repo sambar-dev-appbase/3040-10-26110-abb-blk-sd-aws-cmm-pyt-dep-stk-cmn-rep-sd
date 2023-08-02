@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "resourceMetadataKEY": "no",
     "package1NameKEY": "npm",
     "package1VersionNumberKEY": "8.19.4",
@@ -8,7 +8,13 @@
     "package3NameKEY": "package-name",
     "package3VersionNumberKEY": "3.8.10"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "trusterdEntityTypeKEY": "aws service",
   "commonUseCaseKEY": "ec2",
@@ -16,8 +16,14 @@
     "deploymentTypeKEY": "sdk"
   }
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }
 

@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "aliasNameKEY": "none",
   "resourceNameKEY": "ub-gp-no-us-en-lo-3040-10-ua-p-r-no-us-en-lo-3040-10-rol-sd",
@@ -9,7 +9,13 @@
   "deploymentOrderNumber5500KEY": "5510",
   "deletionProtectionFlag5500KEY": "none"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

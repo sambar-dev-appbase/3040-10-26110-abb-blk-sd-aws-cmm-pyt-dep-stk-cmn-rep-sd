@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
   "resourceMetadataKEY": "yes",
   "webServicePlatformNameKEY": "aws",
   "accountNumberKEY": "635602896676",
@@ -9,7 +9,13 @@
   "serviceNameKEY": "elastic kubernetes service",
   "serviceTypeKEY": "regional"
 },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

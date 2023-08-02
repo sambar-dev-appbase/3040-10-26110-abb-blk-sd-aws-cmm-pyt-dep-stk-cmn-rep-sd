@@ -1,5 +1,5 @@
 {
-  "installation": {
+  "configuration": {
     "aliasNameKEY": "none",
     "resourceNameKEY": "ssp-gp-no-us-en-lo-2040-10-ub-gp-no-us-en-lo-3040-10-pol-sd",
     "fqridKEY": "3040-10-5705-fcr-pol-sd-aws",
@@ -8,7 +8,13 @@
     "deploymentOrderNumber5700KEY": "5705",
     "deletionProtectionFlag5700KEY": "none"
   },
-  "communication": {
+  "installation": {
     "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "elementMetadataKEY": "no"
+  },
+  "operation": {
+    "elementMetadataKEY": "no"
   }
 }

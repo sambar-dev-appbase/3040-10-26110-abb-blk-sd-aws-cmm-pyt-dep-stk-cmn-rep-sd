@@ -1,28 +1,28 @@
 {
   "configuration": {
-  "resourceMetadataKEY": "yes",
-  "resourceTypeKEY": "other-type-of-secret",
-  "resourceStringTypeKEY": "key/value",
-  "secretTextKEY": "XXXX",
-  "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
-  "resourceTagKEY": {
-    "aliasNameKEY": "none",
-    "ifqridKEY": "3040-10-5215-jcr-sec-sd-aws",
-    "resourceTypeKEY": "sec",
-    "blockNumberKEY": "3040-10",
-    "applicationKEY": "sambar",
-    "environmentIDKEY": "sd",
-    "regionCodeKEY": "eu-west-2",
-    "deploymentTypeKEY": "sdk"
-  }
-},
+    "resourceMetadataKEY": "no"
+  },
   "installation": {
     "resourceMetadataKEY": "no"
   },
   "communication": {
-    "elementMetadataKEY": "no"
-  },
-  "operation": {
-    "elementMetadataKEY": "no"
+    "elementMetadataKEY": "yes",
+    "resourceTypeKEY": "other-type-of-secret",
+    "resourceStringTypeKEY": "key/value",
+    "secretTextKEY": "XXXX",
+    "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
+    "resourceTagKEY": {
+      "aliasNameKEY": "none",
+      "ifqridKEY": "3040-10-5215-jcr-sec-sd-aws",
+      "resourceTypeKEY": "sec",
+      "blockNumberKEY": "3040-10",
+      "applicationKEY": "sambar",
+      "environmentIDKEY": "sd",
+      "regionCodeKEY": "eu-west-2",
+      "deploymentTypeKEY": "sdk"
+    },
+    "operation": {
+      "elementMetadataKEY": "no"
+    }
   }
 }

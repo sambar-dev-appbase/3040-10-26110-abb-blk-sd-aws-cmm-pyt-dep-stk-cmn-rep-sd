@@ -10,7 +10,7 @@
     "resourceTypeKEY": "other-type-of-secret",
     "resourceStringTypeKEY": "key/value",
     "secretTextKEY": "XXXX",
-    "secretDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
+    "resourceDescriptionKEY": "This secret contains credentials to access MySQL table user-account-number-3040-10-dtn-sd.",
     "resourceTagKEY": {
       "aliasNameKEY": "none",
       "ifqridKEY": "3040-10-5215-jcr-sec-sd-aws",

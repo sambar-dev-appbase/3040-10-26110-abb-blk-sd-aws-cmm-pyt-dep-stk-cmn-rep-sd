@@ -1,5 +1,11 @@
 {
   "configuration": {
+    "resourceMetadataKEY": "no"
+  },
+  "installation": {
+    "resourceMetadataKEY": "no"
+  },
+  "communication": {
     "resourceMetadataKEY": "yes",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",
@@ -8,17 +14,6 @@
     "regionCodeKEY": "eu-west-2",
     "serviceNameKEY": "iam",
     "serviceTypeKEY": "regional"
-  },
-  "installation": {
-    "resourceMetadataKEY": "no",
-    "webServicePlatformNameKEY": "aws",
-    "accountNumberKEY": "635602896676",
-    "regionAreaNameKEY": "europe",
-    "regionNameKEY": "london",
-    "regionCodeKEY": "eu-west-2"
-  },
-  "communication": {
-    "elementMetadataKEY": "no"
   },
   "operation": {
     "elementMetadataKEY": "no"

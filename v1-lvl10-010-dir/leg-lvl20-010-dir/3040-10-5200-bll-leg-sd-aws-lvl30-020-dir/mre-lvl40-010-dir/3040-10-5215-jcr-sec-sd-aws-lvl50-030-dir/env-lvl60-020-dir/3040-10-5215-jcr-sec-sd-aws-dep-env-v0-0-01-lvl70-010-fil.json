@@ -12,7 +12,7 @@
     "regionAreaNameKEY": "europe",
     "regionNameKEY": "london",
     "regionCodeKEY": "eu-west-2",
-    "serviceNameKEY": "iam",
+    "serviceNameKEY": "secret-manager",
     "serviceTypeKEY": "regional"
   },
   "operation": {

@@ -16,7 +16,7 @@
       "ifqridKEY": "3040-10-5215-jcr-sec-sd-aws",
       "resourceTypeKEY": "sec",
       "blockNumberKEY": "3040-10",
-      "applicationKEY": "sambar",
+      "applicationNameKEY": "sambar",
       "environmentIDKEY": "sd",
       "regionCodeKEY": "eu-west-2",
       "deploymentTypeKEY": "sdk"

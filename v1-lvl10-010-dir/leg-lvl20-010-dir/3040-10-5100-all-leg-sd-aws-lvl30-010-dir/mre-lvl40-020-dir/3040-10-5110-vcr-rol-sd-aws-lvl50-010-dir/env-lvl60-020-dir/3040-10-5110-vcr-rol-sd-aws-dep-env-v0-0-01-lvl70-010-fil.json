@@ -1,25 +1,20 @@
 {
   "configuration": {
-  "resourceMetadataKEY": "yes",
-  "webServicePlatformNameKEY": "aws",
-  "accountNumberKEY": "635602896676",
-  "regionAreaNameKEY": "europe",
-  "regionNameKEY": "london",
-  "regionCodeKEY": "eu-west-2",
-  "serviceNameKEY": "iam",
-  "iamPolicyKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd",
-  "serviceTypeKEY": "global"
-},
+    "elementMetadataKEY": "no"
+  },
   "installation": {
-    "resourceMetadataKEY": "no",
+    "resourceMetadataKEY": "no"
+  },
+  "communication": {
+    "resourceMetadataKEY": "yes",
     "webServicePlatformNameKEY": "aws",
     "accountNumberKEY": "635602896676",
     "regionAreaNameKEY": "europe",
     "regionNameKEY": "london",
-    "regionCodeKEY": "eu-west-2"
-  },
-  "communication": {
-    "elementMetadataKEY": "no"
+    "regionCodeKEY": "eu-west-2",
+    "serviceNameKEY": "iam",
+    "iamPolicyKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd",
+    "serviceTypeKEY": "global"
   },
   "operation": {
     "elementMetadataKEY": "no"

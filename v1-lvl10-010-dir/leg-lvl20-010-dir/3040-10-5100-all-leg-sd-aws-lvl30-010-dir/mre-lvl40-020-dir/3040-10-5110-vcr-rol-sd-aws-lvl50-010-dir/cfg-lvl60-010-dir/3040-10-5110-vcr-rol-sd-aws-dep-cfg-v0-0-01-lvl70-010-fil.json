@@ -25,6 +25,7 @@
     },
     "resourceTagKEY": {
       "aliasNameKEY": "none",
+      "botNameKEY": "none",
       "ifqridKEY": "3040-10-5110-pcr-rol-sd-aws",
       "resourceTypeKEY": "rol",
       "blockNumberKEY": "3040-10",

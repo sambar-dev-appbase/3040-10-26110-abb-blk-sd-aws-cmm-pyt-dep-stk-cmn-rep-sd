@@ -1,6 +1,6 @@
 {
   "configuration": {
-    "elementMetadataKEY": "no"
+    "resourceMetadataKEY": "no"
   },
   "installation": {
     "resourceMetadataKEY": "no"
@@ -36,6 +36,6 @@
     }
   },
   "operation": {
-    "elementMetadataKEY": "no"
+    "resourceMetadataKEY": "no"
   }
 }

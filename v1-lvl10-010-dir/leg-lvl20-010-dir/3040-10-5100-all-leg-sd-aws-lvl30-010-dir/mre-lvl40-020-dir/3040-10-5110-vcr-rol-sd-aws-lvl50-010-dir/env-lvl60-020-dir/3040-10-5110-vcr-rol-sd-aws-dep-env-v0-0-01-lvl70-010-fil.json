@@ -13,7 +13,6 @@
     "regionNameKEY": "london",
     "regionCodeKEY": "eu-west-2",
     "serviceNameKEY": "iam",
-    "iamPolicyKEY": "ua-p-r-no-us-en-lo-3040-10-user-subscription-plan-3040-10-pol-sd",
     "serviceTypeKEY": "global"
   },
   "operation": {

@@ -6,7 +6,7 @@
     "resourceMetadataKEY": "no"
   },
   "communication": {
-    "elementMetadataKEY": "yes",
+    "resourceMetadataKEY": "yes",
     "resourceTypeKEY": "other-type-of-secret",
     "resourceStringTypeKEY": "key/value",
     "secretTextKEY": "XXXX",
@@ -22,7 +22,7 @@
       "deploymentTypeKEY": "sdk"
     },
     "operation": {
-      "elementMetadataKEY": "no"
+      "resourceMetadataKEY": "no"
     }
   }
 }

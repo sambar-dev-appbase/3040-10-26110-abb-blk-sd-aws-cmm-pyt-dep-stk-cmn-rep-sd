@@ -15,10 +15,10 @@
     "aAvailabilityZoneCodeKEY": "no",
     "bAvailabilityZoneCodeKEY": "no",
     "cAvailabilityZoneCodeKEY": "no",
-    "serviceNameKEY": "secrets-manager",
+    "serviceNameKEY": "secret-manager",
     "serviceTypeKEY": "regional"
   },
   "operation": {
-    "elementMetadataKEY": "no"
+    "resourceMetadataKEY": "no"
   }
 }
